@@ -21,19 +21,18 @@ The project is implemented in C++. The main components of the code include:
 ### Example Usage
 
 1. **Input:**
-    ```ruby
-    Enter the number of vertices: 5
-    Enter the number of edges: 8
-    Enter edge 1 (source, destination, weight): 0 1 6
-    Enter edge 2 (source, destination, weight): 0 2 7
-    Enter edge 3 (source, destination, weight): 1 2 8
-    Enter edge 4 (source, destination, weight): 1 3 5
-    Enter edge 5 (source, destination, weight): 1 4 -4
-    Enter edge 6 (source, destination, weight): 2 3 -3
-    Enter edge 7 (source, destination, weight): 2 4 9
-    Enter edge 8 (source, destination, weight): 3 1 -2
-    Enter the source vertex: 0
-    ```
+
+>     Enter the number of vertices: 5
+>     Enter the number of edges: 8
+>     Enter edge 1 (source, destination, weight): 0 1 6
+>     Enter edge 2 (source, destination, weight): 0 2 7
+>     Enter edge 3 (source, destination, weight): 1 2 8
+>     Enter edge 4 (source, destination, weight): 1 3 5
+>     Enter edge 5 (source, destination, weight): 1 4 -4
+>     Enter edge 6 (source, destination, weight): 2 3 -3
+>     Enter edge 7 (source, destination, weight): 2 4 9
+>     Enter edge 8 (source, destination, weight): 3 1 -2
+>     Enter the source vertex: 0
 
 2. **Output:**
     ```ruby
