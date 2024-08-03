@@ -21,7 +21,7 @@ The project is implemented in C++. The main components of the code include:
 ### Example Usage
 
 1. **Input:**
-    ```
+    ```ruby
     Enter the number of vertices: 5
     Enter the number of edges: 8
     Enter edge 1 (source, destination, weight): 0 1 6
@@ -36,7 +36,7 @@ The project is implemented in C++. The main components of the code include:
     ```
 
 2. **Output:**
-    ```
+    ```ruby
     Shortest distances from vertex 0:
     To vertex 0: 0
     To vertex 1: 6
